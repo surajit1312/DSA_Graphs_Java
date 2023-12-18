@@ -8,8 +8,8 @@ import java.util.Arrays;
  * 
  * Link: https://www.geeksforgeeks.org/problems/number-of-provinces/1
  * 
- * TC: O(V + E)
- * SC: O(V)
+ * TC: O(2V + 2E)
+ * SC: O(2V)
  * 
  */
 public class P1_Number_Of_Provinces {
