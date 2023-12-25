@@ -7,6 +7,7 @@ import java.util.Queue;
 
 /**
  * 
+ * CodingNinjas: Single Source Shortest Path
  * 
  * Link:
  * https://www.codingninjas.com/studio/problems/single-source-shortest-path_8416371
