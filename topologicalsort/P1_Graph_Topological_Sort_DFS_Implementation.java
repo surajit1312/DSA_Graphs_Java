@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Stack;
 
-public class P1_Graph_Topological_Sort_Implementation {
+public class P1_Graph_Topological_Sort_DFS_Implementation {
     public static void main(String[] args) {
         int v = 5;
         int e = 4;
